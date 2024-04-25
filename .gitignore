@@ -1,0 +1,27 @@
+## ignore whl and zip files
+
+*.whl
+*.zip
+*.pth
+
+## ignore big dir
+
+/pretrained/
+/data/
+/work_dirs/
+/demo/
+/resources/
+/tools/pretrained/
+/tools/work_dirs/
+
+# temp
+# /configs/
+# /data/
+# /demo/
+# /mmseg/
+# /pretrained/
+# /resources/
+# /tools/
+# /work_dirs/
+
+
